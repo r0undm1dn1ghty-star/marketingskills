@@ -28,3 +28,6 @@ skills-lock.json
 *~
 .idea/
 .vscode/
+
+# Private candidate data for cover-letters skill (contains PII — keep local)
+*.PRIVATE.md
